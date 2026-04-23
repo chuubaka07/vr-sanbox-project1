@@ -673,7 +673,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38f6bf3d943ac7945842268c9ef1dca6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Unity.XR.Interaction.Toolkit::UnityEngine.XR.Interaction.Toolkit.Locomotion.Teleportation.TeleportationArea
-  m_InteractionManager: {fileID: 0}
+  m_InteractionManager: {fileID: 69545400}
   m_Colliders: []
   m_InteractionLayers:
     m_Bits: 1
@@ -1442,7 +1442,7 @@ Transform:
   m_GameObject: {fileID: 1619212956}
   serializedVersion: 2
   m_LocalRotation: {x: 0.00009849265, y: -0.71101725, z: 0.00006558321, w: 0.70317453}
-  m_LocalPosition: {x: 0, y: 1.91, z: 4.43}
+  m_LocalPosition: {x: -0.01, y: 1.91, z: 4.93}
   m_LocalScale: {x: 0.37415, y: 3.7655, z: 9.811989}
   m_ConstrainProportionsScale: 0
   m_Children: []
