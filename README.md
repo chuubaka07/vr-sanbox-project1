@@ -69,7 +69,7 @@
 - **Видео 1 (1-я неделя):** захват и телепортация  
   [https://drive.google.com/file/d/1kbKMMRvnOIIadBI8MFVyCPV3LaRdB2yU/view?usp=drive_link]
 - **Видео 2 (2-я неделя):** все базовые механики + меню  
-  [Ссылка]
+  
 - **Скачать готовый билд (Windows)**  
   [Ссылка на ZIP-архив из Releases]
 
