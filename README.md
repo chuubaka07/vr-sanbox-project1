@@ -31,24 +31,17 @@
 - Базовый вывод информации о трекинге рук (в процессе наполнения)
 
 **Продвинутые механики (PrecisionToolsScene):**
-- Импортированы модели штангенциркуля и микрометра
-- Частично настроены компоненты для будущего двуручного взаимодействия
+- Штангенциркуль (функционал) (PrecisionToolsScene) 
+- Микрометр (функционал) (PrecisionToolsScene)
+- Продвинутые кейсы (AdvancedScene)
+- работа с планшетом/блокнотом
+- химические/лабораторные процедуры
 
 **Инфраструктура:**
 - Проект работает на Unity 6.4 с OpenXR и XR Interaction Toolkit 3.4.1
 - Поддержка VR-очков (тестировалось на реальном устройстве)
 - Репозиторий GitHub настроен для командной работы
 - Аддитивная загрузка сцен через Bootstrapper
-
-
-### 🚧 В разработке (ближайшие итерации)
-- Телепортация (CoreMechanicsScene) – Navigation Engineer
-- Непрерывное движение (CoreMechanicsScene) – Navigation Engineer
-- Штангенциркуль (функционал) (PrecisionToolsScene) – Interaction Engineer, 1-я итерация.
-- Микрометр (функционал) (PrecisionToolsScene) – Interaction Engineer
-- Отладка жестов и маркеров (DebugScene) – Tracking Engineer
-- Продвинутые кейсы (AdvancedScene) – UX Engineer
-- Системное меню по жесту (UIScene) – UX Engineer
 
 ## Установка и запуск
 
